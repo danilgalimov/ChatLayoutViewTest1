@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/drawable/circle.xml" value="0.273" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/drawable/dropshadow.xml" value="0.1405" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.273" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/drawable/my_message.xml" value="0.2415" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/drawable/qwe.xml" value="0.273" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/drawable/shadow.xml" value="0.196" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/drawable/shape.xml" value="0.273" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/drawable/their_message.xml" value="0.2415" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/activity_fragment.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/fragment_chat.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/fragment_chat_list.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/fragment_chats_list.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/fragment_contact_list.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/list_item_chat.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/list_item_contact.xml" value="0.75" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/list_item_mymessage.xml" value="0.75" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/list_item_theirmessage.xml" value="0.67" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/list_item_theymeassge.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/list_item_theymessage.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/ChatTest/app/src/main/res/layout/toolbar.xml" value="0.3009833262077811" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
